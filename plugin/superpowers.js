@@ -1,1 +1,1 @@
-/home/mhyatt000/.config/opencode/superpowers/.opencode/plugin/superpowers.js
+../superpowers/.opencode/plugin/superpowers.js
